@@ -94,12 +94,15 @@
         <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white" />
       </td>
       <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=githubactions" width="70px" alt="GitHub Actions"/><br>
+        <img src="https://img.shields.io/badge/GitHub_Actions-Workflows-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+      </td>
+      <td align="center" width="20%">
         <img src="https://skillicons.dev/icons?i=vscode" width="70px" alt="VS Code"/><br>
         <img src="https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
       </td>
     </tr>
-  </table>
-</div>
+  </table></div>
 
 <br>
 
